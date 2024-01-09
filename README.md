@@ -1,6 +1,6 @@
 # Tugas Akhir Basis Data Terapan
 
-## Pembuatan Halaman Admin Nilai IPK Unissula
+## Pembuatan Website Jual Beli Senjata Api
 
 1. buatlah kelompok dengan jumlah maksimum 5 orang
 2. Buatlah aplikasi Web (PHP) yang terhubung ke database MySQL. di dalam aplikasi harus ada
@@ -69,10 +69,11 @@ aplikasi yang di butuhkan
 - Dengan merinci aspek-aspek di atas, deskripsi penilaian IPK dapat memberikan gambaran menyeluruh tentang bagaimana prestasi akademis seorang mahasiswa dievaluasi dalam konteks pendidikan tinggi.
 
 - kontributor
-  - habib baihaqi arrozaq
-  - Marwan hadid
-  - jibril amjad taqiudin
-  - Moh Rian Hadi KH
+  - Farhan Nur Hidayat
+  - Fandy Ahmad Rizal
+  - Maulana Farid Ilahi
+  - Maulana Arlistyo Hariyono
+  - Gusmix Mubbarok
 
 # Cara menggunakan Repositori
 - Download
