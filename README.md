@@ -17,8 +17,9 @@
 
  - "https://www.youtube.com/watch?v=U5z6zgrHwOY" (Begini Cara Membuat Website Simple CRUD dengan PHP dan MySQL)
  - "https://youtube.com/playlist?list=PLzt0WdHR1Z3mIO8sTcb_obvC5JmL_b-Fg&si=V6zMYIJ8_IgpTABI" (Membuat Website Dengan PHP dan MySQL)
- - "https://getbootstrap.com/docs/4.0/getting-started/introduction/" Bootstrap 4.
- - "http://materializecss.com/res/materialize.svg" Materializes 4,7.
+ - "https://getbootstrap.com/docs/4.0/getting-started/introduction/" (Bootstrap 4.)
+ - "http://materializecss.com/res/materialize.svg" (Materializes 4,7.)
+ - "https://www.youtube.com/watch?v=Zhw5-cJ3B54" (Video Tugas)
    
   
 aplikasi yang di butuhkan
